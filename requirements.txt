@@ -1,0 +1,9 @@
+transformers
+torch
+streamlit
+fastapi
+uvicorn
+openai
+pandas
+matplotlib
+scikit-learn
